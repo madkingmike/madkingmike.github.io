@@ -1,0 +1,229 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madkingsgaming.com" resolutions="1x" timestamp="1539124847901">
+  <folder name="css">
+    <file name="site_global.css" crc="4075514310"/>
+    <file name="index.css" crc="3869586948" ref="index"/>
+    <file name="iefonts_index.css" crc="464403574" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>plans:phone>kings:phone>contact:tablet>index:tablet>plans:tablet>kings:tablet>contact:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>plans:phone>kings:phone>contact:tablet>index:tablet>plans:tablet>kings:tablet>contact:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>plans:phone>kings:phone>contact:tablet>index:tablet>plans:tablet>kings:tablet>contact:index"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>plans:phone>kings:phone>contact:tablet>index:tablet>plans:tablet>kings:tablet>contact:index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="phone>index:phone>plans:phone>kings:phone>contact:tablet>index:tablet>plans:tablet>kings:tablet>contact:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>plans:phone>kings:phone>contact:tablet>index:tablet>plans:tablet>kings:tablet>contact:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:phone>plans:phone>kings:phone>contact:tablet>index:tablet>plans:tablet>kings:tablet>contact:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:phone>kings:phone>contact:tablet>index:tablet>contact:index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:phone>kings:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:phone>kings:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:phone>kings:tablet>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:phone>plans:phone>kings:phone>contact:tablet>index:tablet>plans:tablet>kings:tablet>contact:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>plans:phone>kings:phone>contact:tablet>index:tablet>plans:tablet>kings:tablet>contact:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>plans:phone>kings:phone>contact:tablet>index:tablet>plans:tablet>kings:tablet>contact:index"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>contact"/>
+    <file name="form_process.php" crc="37464564" ref="phone>contact"/>
+    <file name="form-u2434.php" crc="184793418" ref="phone>contact"/>
+    <file name="form-u2324.php" crc="4057970552" ref="tablet>contact"/>
+    <file name="form-u908.php" crc="129512647" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="451000-blue-fire-background-2560x1440-for-full-hd-u1742-fr.jpg" crc="4272355727" ref="phone>index"/>
+    <file name="twitchicon.jpg" crc="4197533129" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube-muse.jpg" crc="2967204" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter_logo_whiteonimage.png" crc="3762600580" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram-logo-black-borders-png-transparent-background.png" crc="4263669604" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background_texture.jpg" crc="3881649066" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="atlantisnebula10-5745x1200.jpg" crc="66606319" ref="phone>plans">
+      <caption webpage="plans" alt=""/>
+    </file>
+    <file name="playbutt.png" crc="4048260438" seo="true" ref="phone>plans:tablet>plans:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="plans" alt=""/>
+      <caption webpage="plans" alt=""/>
+    </file>
+    <file name="microphone-icon-5041.png" crc="397396914" seo="true" ref="phone>plans:tablet>plans:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="plans" alt=""/>
+      <caption webpage="plans" alt=""/>
+    </file>
+    <file name="twitch_icon.png" crc="3973470759" seo="true" ref="phone>plans:tablet>plans:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="plans" alt=""/>
+      <caption webpage="plans" alt=""/>
+    </file>
+    <file name="23041-200.png" crc="434616914" seo="true" ref="phone>plans:tablet>plans:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="plans" alt=""/>
+      <caption webpage="plans" alt=""/>
+    </file>
+    <file name="snap.png" crc="13911119" seo="true" ref="phone>plans:tablet>plans:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="plans" alt=""/>
+      <caption webpage="plans" alt=""/>
+    </file>
+    <file name="logo.png" crc="3793182824" seo="true" ref="phone>plans:tablet>plans:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="plans" alt=""/>
+      <caption webpage="plans" alt=""/>
+    </file>
+    <file name="gallery_image1-u1892-fr.jpg" crc="15261681" ref="phone>kings:index"/>
+    <file name="gallery_image1-u1892-r-fr.png" crc="4215432708" ref="phone>kings"/>
+    <file name="gallery_image1-u1867-fr.jpg" crc="316774821" ref="phone>kings"/>
+    <file name="glass-blue-u1898-fr.jpg" crc="3850858838" ref="phone>kings"/>
+    <file name="mkg perri no back.png" crc="258731310" seo="true" ref="phone>kings:tablet>kings:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kings" alt=""/>
+      <caption webpage="kings" alt=""/>
+    </file>
+    <file name="mkg grant no back.png" crc="353084623" seo="true" ref="phone>kings:tablet>kings:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kings" alt=""/>
+      <caption webpage="kings" alt=""/>
+    </file>
+    <file name="mkg mike no back.png" crc="75494880" seo="true" ref="phone>kings:tablet>kings:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kings" alt=""/>
+      <caption webpage="kings" alt=""/>
+    </file>
+    <file name="mkg alex no back.png" crc="4247959526" seo="true" ref="phone>kings:tablet>kings:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kings" alt=""/>
+      <caption webpage="kings" alt=""/>
+    </file>
+    <file name="art-u2028-fr.jpg" crc="483728119" ref="phone>contact"/>
+    <file name="instagram-logo-png-transparent-background-1200x1199.png" crc="227316791" seo="true" ref="phone>contact:tablet>contact:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="facebook.png" crc="3790412547" seo="true" ref="phone>contact:tablet>contact:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="youtube-logo-png-46016-crop-u4290.png" crc="193486763" seo="true" ref="phone>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="twitter_logo_blue-crop-u4292.png" crc="236408363" seo="true" ref="phone>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="back_macbook1269x155.png" crc="367265617" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="back_macbook2269x155.png" crc="3922631534" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mabcook_front456x250.png" crc="4126818614" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mk-global-no-background3d-model-attempt.gif" crc="3996354173" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="451000-blue-fire-background-2560x1440-for-full-hd-u1179-fr.jpg" crc="234176926" ref="tablet>index"/>
+    <file name="fieldsofutopia2 (1).jpg" crc="3936251287" ref="tablet>plans">
+      <caption webpage="plans" alt=""/>
+    </file>
+    <file name="glass-blue-u1377-fr.jpg" crc="201819107" ref="tablet>kings"/>
+    <file name="art.jpg" crc="4264438293" ref="tablet>contact:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="youtube-logo-png-46016.png" crc="438058377" seo="true" ref="tablet>contact:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="twitter_logo_blue.png" crc="4071565090" seo="true" ref="tablet>contact:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="discord_logo.png" crc="4170310460" seo="true" ref="tablet>contact:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="back_macbook1.png" crc="3780194740" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mabcook_front.png" crc="4270533831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_image2-u712-fr.jpg" crc="4116024989" ref="index"/>
+    <file name="gallery_image3-u716-fr.jpg" crc="3792966672" ref="index"/>
+    <file name="gallery_image1.jpg" crc="3787728668" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_image2.jpg" crc="23813704" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_image3.jpg" crc="3761790914" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="451000-blue-fire-background-2560x1440-for-full-hd.jpg" crc="110229634" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fieldsofutopia2.jpg" crc="441220869" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="http___pluspngcom_img-png_play-button-png-filename-play-button-png-237.png" crc="4105760431" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="glass-blue.jpg" crc="44850132" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="back_macbook2.png" crc="438322469" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinstriped_suit.jpg" crc="3881649066" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="227743738" ref="tablet>kings:tablet>plans:tablet>index:tablet>contact"/>
+      <file name="kings.css" crc="340025157" ref="tablet>kings"/>
+      <file name="plans.css" crc="524527478" ref="tablet>plans"/>
+      <file name="index.css" crc="223401996" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="3895190656" ref="tablet>index"/>
+      <file name="contact.css" crc="439768031" ref="tablet>contact"/>
+    </folder>
+    <file name="index.html" crc="164419432" seo="true" mt="1539118247567" redirect="true"/>
+    <file name="plans.html" crc="507520052" seo="true" mt="1539112116057" redirect="true"/>
+    <file name="kings.html" crc="385711044" seo="true" mt="1539119574630" redirect="true"/>
+    <file name="contact.html" crc="158672506" seo="true" mt="1539120096939" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4192829991" ref="phone>plans:phone>contact:phone>index:phone>kings"/>
+      <file name="plans.css" crc="529046561" ref="phone>plans"/>
+      <file name="contact.css" crc="3867399205" ref="phone>contact"/>
+      <file name="index.css" crc="167269251" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="12537472" ref="phone>index"/>
+      <file name="kings.css" crc="4129818540" ref="phone>kings"/>
+      <file name="iefonts_kings.css" crc="3987121228" ref="phone>kings"/>
+    </folder>
+    <file name="index.html" crc="3921933854" seo="true" mt="1539120287570" redirect="true"/>
+    <file name="plans.html" crc="346544765" seo="true" mt="1539120287570" redirect="true"/>
+    <file name="kings.html" crc="307779306" seo="true" mt="1539120287570" redirect="true"/>
+    <file name="contact.html" crc="313313528" seo="true" mt="1539120287570" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4060934385" seo="true" mt="1539122583836" redirect="true"/>
+</manifest>
