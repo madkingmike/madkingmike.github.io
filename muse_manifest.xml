@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://www.madkingsgaming.com" resolutions="1x" timestamp="1539139542650">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://www.madkingsgaming.com" resolutions="1x" timestamp="1539140461682">
   <folder name="css">
     <file name="site_global.css" crc="4075514310"/>
-    <file name="index.css" crc="4030415968" ref="index"/>
+    <file name="index.css" crc="381148404" ref="index"/>
     <file name="iefonts_index.css" crc="464403574" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -30,22 +30,14 @@
     <file name="451000-blue-fire-background-2560x1440-for-full-hd-u1742-fr.jpg" crc="4272355727" ref="phone>index"/>
     <file name="twitchicon.jpg" crc="4197533129" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="youtube-muse.jpg" crc="2967204" seo="true" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="twitter_logo_whiteonimage.png" crc="3762600580" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="instagram-logo-black-borders-png-transparent-background.png" crc="4263669604" seo="true" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="background_texture.jpg" crc="3881649066" ref="phone>index:tablet>index">
@@ -85,7 +77,7 @@
       <caption webpage="plans" alt=""/>
       <caption webpage="plans" alt=""/>
     </file>
-    <file name="gallery_image1-u1892-fr.jpg" crc="15261681" ref="phone>kings:index"/>
+    <file name="gallery_image1-u1892-fr.jpg" crc="15261681" ref="phone>kings"/>
     <file name="gallery_image1-u1892-r-fr.png" crc="4215432708" ref="phone>kings"/>
     <file name="gallery_image1-u1867-fr.jpg" crc="316774821" ref="phone>kings"/>
     <file name="glass-blue-u1898-fr.jpg" crc="3850858838" ref="phone>kings"/>
@@ -136,7 +128,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="mk-global-no-background3d-model-attempt.gif" crc="3996354173" seo="true" ref="tablet>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="451000-blue-fire-background-2560x1440-for-full-hd-u1179-fr.jpg" crc="234176926" ref="tablet>index"/>
@@ -195,6 +186,7 @@
     <file name="pinstriped_suit.jpg" crc="3881649066" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="gallery_image1-u681-fr.jpg" crc="15261681" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -225,5 +217,5 @@
     <file name="kings.html" crc="286757132" seo="true" mt="1539139499314" redirect="true"/>
     <file name="contact.html" crc="313313528" seo="true" mt="1539120287570" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4293742696" seo="true" mt="1539139452596" redirect="true"/>
+  <file name="index.html" crc="3300559" seo="true" mt="1539139452596" redirect="true"/>
 </manifest>
