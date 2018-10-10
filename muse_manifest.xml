@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madkingsgaming.com" resolutions="1x" timestamp="1539124847901">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://www.madkingsgaming.com" resolutions="1x" timestamp="1539139542650">
   <folder name="css">
     <file name="site_global.css" crc="4075514310"/>
-    <file name="index.css" crc="3869586948" ref="index"/>
+    <file name="index.css" crc="4030415968" ref="index"/>
     <file name="iefonts_index.css" crc="464403574" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -19,9 +19,9 @@
     <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:phone>plans:phone>kings:phone>contact:tablet>index:tablet>plans:tablet>kings:tablet>contact:index"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>plans:phone>kings:phone>contact:tablet>index:tablet>plans:tablet>kings:tablet>contact:index"/>
     <file name="require.js" crc="7928878" ref="phone>index:phone>plans:phone>kings:phone>contact:tablet>index:tablet>plans:tablet>kings:tablet>contact:index"/>
-    <file name="form_check.php" crc="4020933626" ref="phone>contact"/>
-    <file name="form_throttle.php" crc="4259590256" ref="phone>contact"/>
-    <file name="form_process.php" crc="37464564" ref="phone>contact"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>contact:index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>contact:index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>contact:index"/>
     <file name="form-u2434.php" crc="184793418" ref="phone>contact"/>
     <file name="form-u2324.php" crc="4057970552" ref="tablet>contact"/>
     <file name="form-u908.php" crc="129512647" ref="index"/>
@@ -200,14 +200,14 @@
     <folder name="css">
       <file name="master_a-master.css" crc="227743738" ref="tablet>kings:tablet>plans:tablet>index:tablet>contact"/>
       <file name="kings.css" crc="340025157" ref="tablet>kings"/>
-      <file name="plans.css" crc="524527478" ref="tablet>plans"/>
+      <file name="plans.css" crc="3936053689" ref="tablet>plans"/>
       <file name="index.css" crc="223401996" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="3895190656" ref="tablet>index"/>
       <file name="contact.css" crc="439768031" ref="tablet>contact"/>
     </folder>
-    <file name="index.html" crc="164419432" seo="true" mt="1539118247567" redirect="true"/>
-    <file name="plans.html" crc="507520052" seo="true" mt="1539112116057" redirect="true"/>
-    <file name="kings.html" crc="385711044" seo="true" mt="1539119574630" redirect="true"/>
+    <file name="index.html" crc="3938162092" seo="true" mt="1539139370194" redirect="true"/>
+    <file name="plans.html" crc="4248974064" seo="true" mt="1539139420181" redirect="true"/>
+    <file name="kings.html" crc="400434993" seo="true" mt="1539139493762" redirect="true"/>
     <file name="contact.html" crc="158672506" seo="true" mt="1539120096939" redirect="true"/>
   </folder>
   <folder name="phone">
@@ -215,15 +215,15 @@
       <file name="master_a-master.css" crc="4192829991" ref="phone>plans:phone>contact:phone>index:phone>kings"/>
       <file name="plans.css" crc="529046561" ref="phone>plans"/>
       <file name="contact.css" crc="3867399205" ref="phone>contact"/>
-      <file name="index.css" crc="167269251" ref="phone>index"/>
+      <file name="index.css" crc="3855573880" ref="phone>index"/>
       <file name="iefonts_index.css" crc="12537472" ref="phone>index"/>
       <file name="kings.css" crc="4129818540" ref="phone>kings"/>
       <file name="iefonts_kings.css" crc="3987121228" ref="phone>kings"/>
     </folder>
-    <file name="index.html" crc="3921933854" seo="true" mt="1539120287570" redirect="true"/>
-    <file name="plans.html" crc="346544765" seo="true" mt="1539120287570" redirect="true"/>
-    <file name="kings.html" crc="307779306" seo="true" mt="1539120287570" redirect="true"/>
+    <file name="index.html" crc="4019839395" seo="true" mt="1539139365060" redirect="true"/>
+    <file name="plans.html" crc="3977595007" seo="true" mt="1539139427494" redirect="true"/>
+    <file name="kings.html" crc="286757132" seo="true" mt="1539139499314" redirect="true"/>
     <file name="contact.html" crc="313313528" seo="true" mt="1539120287570" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4060934385" seo="true" mt="1539122583836" redirect="true"/>
+  <file name="index.html" crc="4293742696" seo="true" mt="1539139452596" redirect="true"/>
 </manifest>
