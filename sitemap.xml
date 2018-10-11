@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.madkingsgaming.com/index.html</loc>
-    <lastmod>2018-10-09</lastmod>
+    <lastmod>2018-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://www.madkingsgaming.com/phone/index.html"/>
@@ -56,9 +56,6 @@
       <image:loc>https://www.madkingsgaming.com/images/facebook.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://www.madkingsgaming.com/images/mk-global-no-background3d-model-attempt.gif</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://www.madkingsgaming.com/images/youtube-logo-png-46016.png</image:loc>
     </image:image>
     <image:image>
@@ -79,6 +76,9 @@
     <image:image>
       <image:loc>https://www.madkingsgaming.com/images/back_macbook2.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://www.madkingsgaming.com/images/mk%20global%20no%20background-crop-u4318.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://www.madkingsgaming.com/tablet/kings.html</loc>
@@ -96,7 +96,7 @@
   </url>
   <url>
     <loc>https://www.madkingsgaming.com/tablet/contact.html</loc>
-    <lastmod>2018-10-09</lastmod>
+    <lastmod>2018-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://www.madkingsgaming.com/phone/contact.html"/>

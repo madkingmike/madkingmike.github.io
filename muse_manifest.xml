@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://www.madkingsgaming.com" resolutions="1x" timestamp="1539140461682">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://www.madkingsgaming.com" resolutions="1x" timestamp="1539227626659">
   <folder name="css">
     <file name="site_global.css" crc="4075514310"/>
-    <file name="index.css" crc="381148404" ref="index"/>
+    <file name="index.css" crc="323946167" ref="index"/>
     <file name="iefonts_index.css" crc="464403574" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -19,9 +19,9 @@
     <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:phone>plans:phone>kings:phone>contact:tablet>index:tablet>plans:tablet>kings:tablet>contact:index"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>plans:phone>kings:phone>contact:tablet>index:tablet>plans:tablet>kings:tablet>contact:index"/>
     <file name="require.js" crc="7928878" ref="phone>index:phone>plans:phone>kings:phone>contact:tablet>index:tablet>plans:tablet>kings:tablet>contact:index"/>
-    <file name="form_check.php" crc="4020933626" ref="phone>contact:index"/>
-    <file name="form_throttle.php" crc="4259590256" ref="phone>contact:index"/>
-    <file name="form_process.php" crc="37464564" ref="phone>contact:index"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>contact"/>
+    <file name="form_process.php" crc="37464564" ref="phone>contact"/>
     <file name="form-u2434.php" crc="184793418" ref="phone>contact"/>
     <file name="form-u2324.php" crc="4057970552" ref="tablet>contact"/>
     <file name="form-u908.php" crc="129512647" ref="index"/>
@@ -115,7 +115,7 @@
     <file name="youtube-logo-png-46016-crop-u4290.png" crc="193486763" seo="true" ref="phone>contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="twitter_logo_blue-crop-u4292.png" crc="236408363" seo="true" ref="phone>contact">
+    <file name="twitter_logo_blue-crop-u4292.png" crc="4058832785" seo="true" ref="phone>contact">
       <caption webpage="contact" alt=""/>
     </file>
     <file name="back_macbook1269x155.png" crc="367265617" seo="true" ref="tablet>index">
@@ -127,7 +127,7 @@
     <file name="mabcook_front456x250.png" crc="4126818614" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mk-global-no-background3d-model-attempt.gif" crc="3996354173" seo="true" ref="tablet>index:index">
+    <file name="mk-global-no-background3d-model-attempt.gif" crc="3996354173" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="451000-blue-fire-background-2560x1440-for-full-hd-u1179-fr.jpg" crc="234176926" ref="tablet>index"/>
@@ -187,6 +187,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="gallery_image1-u681-fr.jpg" crc="15261681" ref="index"/>
+    <file name="mk global no background-crop-u4318.png" crc="319988426" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -195,18 +198,18 @@
       <file name="plans.css" crc="3936053689" ref="tablet>plans"/>
       <file name="index.css" crc="223401996" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="3895190656" ref="tablet>index"/>
-      <file name="contact.css" crc="439768031" ref="tablet>contact"/>
+      <file name="contact.css" crc="4182079824" ref="tablet>contact"/>
     </folder>
     <file name="index.html" crc="3938162092" seo="true" mt="1539139370194" redirect="true"/>
     <file name="plans.html" crc="4248974064" seo="true" mt="1539139420181" redirect="true"/>
     <file name="kings.html" crc="400434993" seo="true" mt="1539139493762" redirect="true"/>
-    <file name="contact.html" crc="158672506" seo="true" mt="1539120096939" redirect="true"/>
+    <file name="contact.html" crc="4118800356" seo="true" mt="1539227599616" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="4192829991" ref="phone>plans:phone>contact:phone>index:phone>kings"/>
       <file name="plans.css" crc="529046561" ref="phone>plans"/>
-      <file name="contact.css" crc="3867399205" ref="phone>contact"/>
+      <file name="contact.css" crc="83276280" ref="phone>contact"/>
       <file name="index.css" crc="3855573880" ref="phone>index"/>
       <file name="iefonts_index.css" crc="12537472" ref="phone>index"/>
       <file name="kings.css" crc="4129818540" ref="phone>kings"/>
@@ -215,7 +218,7 @@
     <file name="index.html" crc="4019839395" seo="true" mt="1539139365060" redirect="true"/>
     <file name="plans.html" crc="3977595007" seo="true" mt="1539139427494" redirect="true"/>
     <file name="kings.html" crc="286757132" seo="true" mt="1539139499314" redirect="true"/>
-    <file name="contact.html" crc="313313528" seo="true" mt="1539120287570" redirect="true"/>
+    <file name="contact.html" crc="4171868120" seo="true" mt="1539227607116" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3300559" seo="true" mt="1539139452596" redirect="true"/>
+  <file name="index.html" crc="4266290210" seo="true" mt="1539227549740" redirect="true"/>
 </manifest>
