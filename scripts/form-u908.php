@@ -57,6 +57,14 @@ $form = array(
 			'required' => false,
 			'errors' => array(
 			)
+		),
+		'custom_U4396' => array(
+			'order' => 4,
+			'type' => 'checkbox',
+			'label' => 'I would like to be added to mkg Member list',
+			'required' => false,
+			'errors' => array(
+			)
 		)
 	)
 );
